@@ -3,6 +3,7 @@ all: dependencies test
 test:
 	npm test
 
+
 dependencies:
 	npm install
 
